@@ -1,0 +1,148 @@
+header
+{
+	
+	top:0px;
+	left:0px;
+	width:100%;
+	color:white;
+	text-align: center;
+	background-color:#0f054b;
+	padding-top:20px;
+	padding-bottom:20px;
+	
+	font-family: 'Architects Daughter';
+}
+footer
+{
+	overflow:auto;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	
+	color:white;
+	text-align: center;
+	background-color:#0f054b;
+	padding-top:20px;
+	padding-bottom:20px;
+	font-family: 'Architects Daughter';
+}
+
+p {
+  color: white;
+  text-align: left;
+  font-family: 'Roboto';
+}
+p.center {
+  color:black;
+  text-align: center;
+  
+}
+h1.center{
+	text-align:center;
+	font-family: 'Architects Daughter';
+}
+h2.section
+{
+	font-family: 'Roboto';
+}
+h2.fontandcoloryellow
+{
+	font-family: 'Roboto';
+	color:yellow;
+}
+h3.fontandcoloryellow
+{
+	font-family: 'Roboto';
+	color:yellow;
+}
+h2.fontandcolorred
+{
+	font-family: 'Roboto';
+	color:red;
+}
+h3.fontandcolorred
+{
+	font-family: 'Roboto';
+	color:red;
+}
+div.fullwidthHeight
+{
+	width:100%;height:100%;
+}
+div.leftpanel{
+width:25%;
+height:100%;  
+float:left; 
+}
+div.centerpanel{
+width:50%;
+height:100%; 
+float:left;
+}
+div.rightpanel{
+	width:avaliable;height:100%; float:right; 
+}
+section.section1
+{
+	margin:30px;   background-color:#0f054b; 
+}
+
+div.divInSection
+{
+width:95%;    margin:20px;  overflow:auto;}
+
+div.topdivInSection{
+
+width:50%; float:left;
+
+}
+div.bottomdivInSection{
+	width:40%; float:right;
+}
+img.styleInSection
+{
+	width: 100%; height:100%;  padding-top:20px; 
+}
+img.fullwidthHeight
+{
+	width:100%;height:100%;
+}
+
+#fleximag
+{
+ width: 100%;
+  height: 60%;
+  height: 60%;
+  display: flex;
+  flex-direction: row;
+}
+
+#fleximag div {
+  width: 20%;
+  height: 20%;
+  margin:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
